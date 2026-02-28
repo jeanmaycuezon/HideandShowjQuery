@@ -2,7 +2,7 @@
 /*        GLOBAL STYLES      */
 /* ========================= */
 body {
-    background: linear-gradient(135deg, #0b79c8, #b2bdcf);
+    background: linear-gradient(135deg, #cdd7dd, #b2bdcf);
     font-family: Arial, sans-serif;
 }
 
@@ -76,10 +76,10 @@ body {
 /*        FOOTER             */
 /* ========================= */
 .id-footer {
-    background: #b9c0c9;
+    background: #0b0f14;
     padding: 8px;
     font-size: 13px;
-    color: #010413;
+    color: #eaecf2;
 }
 
 /* ========================= */
